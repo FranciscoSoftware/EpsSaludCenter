@@ -1,0 +1,11 @@
+C:\Users\fgomez\source\repos\EpsSalud\Service\bin\Debug\netstandard2.0\Service.deps.json
+C:\Users\fgomez\source\repos\EpsSalud\Service\bin\Debug\netstandard2.0\Service.dll
+C:\Users\fgomez\source\repos\EpsSalud\Service\bin\Debug\netstandard2.0\Service.pdb
+C:\Users\fgomez\source\repos\EpsSalud\Service\bin\Debug\netstandard2.0\Data.dll
+C:\Users\fgomez\source\repos\EpsSalud\Service\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\fgomez\source\repos\EpsSalud\Service\obj\Debug\netstandard2.0\Service.csprojAssemblyReference.cache
+C:\Users\fgomez\source\repos\EpsSalud\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+C:\Users\fgomez\source\repos\EpsSalud\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+C:\Users\fgomez\source\repos\EpsSalud\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete
+C:\Users\fgomez\source\repos\EpsSalud\Service\obj\Debug\netstandard2.0\Service.dll
+C:\Users\fgomez\source\repos\EpsSalud\Service\obj\Debug\netstandard2.0\Service.pdb

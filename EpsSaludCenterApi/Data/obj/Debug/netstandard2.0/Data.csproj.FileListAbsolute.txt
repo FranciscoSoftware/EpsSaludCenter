@@ -1,0 +1,8 @@
+C:\Users\fgomez\source\repos\EpsSalud\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\fgomez\source\repos\EpsSalud\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\fgomez\source\repos\EpsSalud\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\fgomez\source\repos\EpsSalud\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\fgomez\source\repos\EpsSalud\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\fgomez\source\repos\EpsSalud\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\fgomez\source\repos\EpsSalud\Data\obj\Debug\netstandard2.0\Data.pdb
+C:\Users\fgomez\source\repos\EpsSalud\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
